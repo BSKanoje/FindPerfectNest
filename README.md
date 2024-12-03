@@ -7,6 +7,7 @@
 ## 3. Project Structure:
 
    FindPerfectNest/
+   
    ├── client/       # React frontend
    
    ├── api/          # Node.js backend
